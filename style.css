@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    padding: 12px 200px;
+}
+
+.header {
+    background-color: #1F2937;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link {
+    gap: 16px;
+}
+
+.header .logo a {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.header .link a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header .link {
+    display: flex;
+}
+

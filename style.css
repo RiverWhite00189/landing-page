@@ -46,3 +46,26 @@ a {
     display: flex;
 }
 
+.main {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    padding: 100px 200px;
+}
+
+.main .hero-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.main .hero-main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight:bolder;
+    margin: 0px;
+}
+
+.main .hero-secondary {
+    padding: 0px;
+}

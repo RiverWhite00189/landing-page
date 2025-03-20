@@ -80,6 +80,7 @@ a {
 .gallery {
     display: flex;
     flex-direction: column;
+    margin-bottom: 100px;
 }
 
 .gallery .head {
@@ -109,6 +110,33 @@ a {
     font-size: 18px;
     color: gray;
     margin: 5px;
+}
+
+.quote {
+    display: flex;
+    background-color: #E5E7EB;
+    padding: 100px 300px;
+    
+    padding-bottom: 74px;
+}
+
+.quote .quote-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.quote .quote-text .text {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #494b4f;
+    font-style: italic;
+}
+
+.quote .quote-text .caption {
+    font-size: 18px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: right;
 }
 
 

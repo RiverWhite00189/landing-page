@@ -81,6 +81,7 @@ a {
     display: flex;
     flex-direction: column;
     margin-bottom: 100px;
+    margin-top: 30px;
 }
 
 .gallery .head {
@@ -175,6 +176,13 @@ a {
         color:#F9FAF8;
         font-weight:bolder;
         border-radius:10px;
+}
+
+.footer {
+    background-color: #1F2937;
+    padding: 30px;
+    text-align: center;
+    color: #E5E7EB;
 }
         
 

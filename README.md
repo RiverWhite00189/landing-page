@@ -1,4 +1,4 @@
-# About
+# Website Template
  This is a sample landing page template to use for any generic website.  
 
 # Curious where this comes from?

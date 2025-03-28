@@ -139,5 +139,43 @@ a {
     text-align: right;
 }
 
+.action {
+    background-color: #3882F6;
+    margin: 100px 150px;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    border-radius: 10px;
+    font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.action .text-box {
+    background-color: #3882F6;
+}
+
+.action .header {
+    font-size: 21px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    margin: 0px;
+    padding: 0px;
+}
+
+.action .text {
+    color: #F9FAF8;
+    margin: 0px;
+}
+
+.action .sign-up-button {
+
+        background:#3882F6;
+        border: 2px solid #F9FAF8;
+        padding: 10px 40px;
+        font-size: 18px;
+        color:#F9FAF8;
+        font-weight:bolder;
+        border-radius:10px;
+}
+        
 
 
